@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CallerLogs</string>
+    <string name="welcome_text">Bienvenido a CallerLogs, Una aplicación con fines académicos que te llevará a una breve encuesta sobre el uso de tu actividad de llamadas de todo tipo, por favor quédese a responder la siguiente encuesta para saber lo que piensa. PD: Le recordamos que la información que está por llenar será completamente anonimizada por lo que no tendra que preocuparse por su privacidad.</string>
+    <string name="continue_button">Continuar</string>
+    <string name="finalize_button">Finalizar</string>
+    <string name="first_question">¿Usted, estaría de acuerdo con la siguiente afirmación?: "Tengo contactos de diferentes personas los fines de semana en lugar de días laborales"</string>
+    <string name="second_question">¿Usted esta de acuerdo con la siguiente afirmación?: "Alguna vez he usado las llamadas cortadas como un indicador a la otra persona para que me llame"</string>
+    <string name="third_question">¿Qué tan a menudo usas el registro de llamadas para marcar un número de tu telefono celular?</string>
+    <string name="s_agree">Completamente de acuerdo</string>
+    <string name="agree">De acuerdo</string>
+    <string name="neutral">Neutral</string>
+    <string name="disagree">Des acuerdo</string>
+    <string name="s_disagree">Completamente des acuerdo</string>
+    <string name="always">Siempre</string>
+    <string name="usually">Usualmente</string>
+    <string name="about">La mitad del tiempo</string>
+    <string name="rarely">Raras veces</string>
+
+</resources>
